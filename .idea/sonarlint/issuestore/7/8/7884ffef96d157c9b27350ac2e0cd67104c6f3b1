@@ -1,0 +1,12 @@
+
+m	java:S106"+Replace this use of System.out by a logger.(î”¯ž8ŠÃŸ©‰2J$89a8093d-5a70-4940-8deb-5c1e26b95a7d
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(­µå§üÿÿÿÿ8ÃŸ©‰2J$c6f33caf-ff6a-42f1-859d-09088d32bda7
+r	java:S106"+Replace this use of System.out by a logger.(†ÞŒ÷úÿÿÿÿ8ŽÃŸ©‰2J$5f32b7ee-a42b-4803-a893-5d3a534178ca
+m	java:S106"+Replace this use of System.out by a logger.(«Â¿8ÃŸ©‰2J$5bb1fe9c-5283-4cd1-bd6f-91b8acbaa7b8
+r	java:S106"+Replace this use of System.out by a logger.(šÛÈíøÿÿÿÿ8ÃŸ©‰2J$57465025-6bc9-486e-b001-3eb98bcf937e
+q
+java:S2140(")Use "java.util.Random.nextInt()" instead.(ƒäàÈúÿÿÿÿ8”ÃŸ©‰2J$f651289f-93cd-46b6-9499-dd09be08418d
+|
+java:S34000"9Remove this method and declare a constant for this value.(”·³›8¬–é¬‰2J$1f70b172-33f8-4ce0-ad69-4c66c091e8b4
+w
+java:S1172/"/Remove these unused method parameters "x", "y".(Ú°ïìùÿÿÿÿ8±–é¬‰2J$5ad8f84a-552d-44da-876e-91a0d36085ac

@@ -1,0 +1,16 @@
+
+q
+java:S1481")Remove this unused "num1" local variable.(ÃÍü¨úÿÿÿÿ8¬—­ˆ‡2J$eee329b6-25d6-415d-87b9-d0dcb0bb94ff
+~	java:S125"<This block of commented-out lines of code should be removed.(Úù¬Ã8±—­ˆ‡2J$2b7b3bf6-a1b4-4881-a61a-d70f64d428c0
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ô Öïøÿÿÿÿ8±—­ˆ‡2J$9cdab8fc-6f08-437d-babc-27c3f3d6fa80
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ýä‰³þÿÿÿÿ8±—­ˆ‡2J$5d9f0f76-544b-4346-a19b-96bef7f2b0a3
+~	java:S125'"<This block of commented-out lines of code should be removed.(À¿‘¥8±—­ˆ‡2J$2a254cd2-2977-489d-a4f9-4b7d5653d1cc
+r	java:S1063"+Replace this use of System.out by a logger.(æïÝ¼ýÿÿÿÿ8›‚Úˆ‡2J$2a9bf7d4-624f-4d46-8804-0668e0589dc2
+r	java:S1067"+Replace this use of System.out by a logger.(¡šó‹ûÿÿÿÿ8‚Úˆ‡2J$a3d6f5cf-b885-4af9-9f83-d2800a1c1e57
+m	java:S1069"+Replace this use of System.out by a logger.(€÷‘ë8‚Úˆ‡2J$fccef0e7-5cbc-4295-8f2a-0e8fcc388903
+~	java:S125<"<This block of commented-out lines of code should be removed.(ìŠÈæ8íš¾ˆ‡2J$17da8e96-39ef-47fc-9bfb-d8c91293cd4d
+~	java:S125B"<This block of commented-out lines of code should be removed.(É„¸¢8ë”¯ˆ‡2J$594d8de8-9730-4a73-9c4b-f77cff54773a
+~	java:S125I"<This block of commented-out lines of code should be removed.(º×¥“8µ—­ˆ‡2J$e2d7b0ea-1457-4c2b-b61b-6f2e94084821
+~	java:S125V"<This block of commented-out lines of code should be removed.(¬¾Šû8ç Ãˆ‡2J$d07e145e-9ee4-4147-b28c-cfca0912983a
+
+java:S1128"GRemove this unused import 'com.learning.utils.Utils.calculateDiscount'.(Ž ÇÀþÿÿÿÿ8Åð½ˆ‡2J$f45f91e5-f311-4c87-b341-8ee58468d7b8

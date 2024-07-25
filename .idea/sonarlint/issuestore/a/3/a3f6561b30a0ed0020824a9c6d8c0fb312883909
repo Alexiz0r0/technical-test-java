@@ -1,0 +1,54 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Îà‰±şÿÿÿÿ8ÛÕü±‡2J$10f73c9a-fbff-49c3-8e6d-15c5e9597a8c
+|
+java:S1488]"ZImmediately return this expression instead of assigning it to the temporary variable "op".(’€ØÜşÿÿÿÿ8ííÿ±‡2
+}
+java:S1118":Add a private constructor to hide the implicit public one.(¼Øûì8öÕü±‡2J$3088e7fb-ec95-46d3-8b43-d30d35ad5a4c
+ˆ
+java:S1124	"EReorder the modifiers to comply with the Java Language Specification.(Ë¼î’8úÕü±‡2J$2f82de23-a0fe-4e95-8c01-b17773581789
+
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(èŸ€Ãıÿÿÿÿ8ıÕü±‡2J$a1743428-6702-482a-aa21-e7578d645a70
+ˆ
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ˆ‡ëÑ8€Öü±‡2J$fc79ac82-464f-4504-871a-61bcc76fb7da
+ˆ
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ğÎ8Öü±‡2J$109e50fd-5f48-4b7a-811c-5240f5a03048
+ˆ
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(«ËÚ¬8‚Öü±‡2J$f1f4b028-52cf-45b9-ab41-e0e1425df602
+
+java:S1124!"EReorder the modifiers to comply with the Java Language Specification.(•ò¼şÿÿÿÿ8ƒÖü±‡2J$36a7647d-f7d3-4294-a8dd-89122327ce89
+
+java:S1124%"EReorder the modifiers to comply with the Java Language Specification.(³ÀòŸûÿÿÿÿ8„Öü±‡2J$5e91fff7-dcde-45ca-afe5-1ade0448fb94
+l	java:S106&"+Replace this use of System.out by a logger.(ç¢z8‡Öü±‡2J$47855836-8a24-4434-b734-8e57a00b5234
+
+java:S1124)"EReorder the modifiers to comply with the Java Language Specification.(üÊÕæşÿÿÿÿ8ˆÖü±‡2J$4e85eb14-8ec8-49cd-a553-4e3c5d01722c
+l	java:S106*"+Replace this use of System.out by a logger.(ç¢z8ˆÖü±‡2J$de498d7b-2c5e-4403-a35b-7573b25d8a13
+
+java:S1124-"EReorder the modifiers to comply with the Java Language Specification.(®¡®’ÿÿÿÿÿ8‰Öü±‡2J$93e3da72-2b8c-4af6-aca4-c0714b81c513
+l	java:S106."+Replace this use of System.out by a logger.(ç¢z8‰Öü±‡2J$56c12f2f-d21d-4f67-ad47-103af7d33e73
+
+java:S11241"EReorder the modifiers to comply with the Java Language Specification.(­­ß ÿÿÿÿÿ8ŠÖü±‡2J$180f9c7f-cfe2-42b6-b8d6-c9cc2f7968fb
+r	java:S1062"+Replace this use of System.out by a logger.(µÏ…èùÿÿÿÿ8ŠÖü±‡2J$c6274ce7-b453-4020-972f-571032b2c829
+ˆ
+java:S11245"EReorder the modifiers to comply with the Java Language Specification.(¬°Áè8‹Öü±‡2J$7526f4a6-c3d6-498d-8bc3-8c61ad1bc79f
+r	java:S1066"+Replace this use of System.out by a logger.(µÏ…èùÿÿÿÿ8‹Öü±‡2J$e8d68e5f-0e2e-4566-b4a2-124f51ad02bd
+ˆ
+java:S11249"EReorder the modifiers to comply with the Java Language Specification.(œƒòÚ8ŒÖü±‡2J$0cde65cb-5a19-4d83-9b6d-ff75b00c2f10
+r	java:S106:"+Replace this use of System.out by a logger.(µÏ…èùÿÿÿÿ8ŒÖü±‡2J$c35f7055-a495-46d4-aafb-cd389c8dba3f
+ˆ
+java:S1124="EReorder the modifiers to comply with the Java Language Specification.(³ø×8Öü±‡2J$5625f348-025d-4d7e-be29-abb1fc92253f
+
+java:S1124A"EReorder the modifiers to comply with the Java Language Specification.(ˆ½ô¿şÿÿÿÿ8Öü±‡2J$0d834239-e243-49a6-8845-16e4bbf5b4ff
+ˆ
+java:S1124E"EReorder the modifiers to comply with the Java Language Specification.(¢ºˆµ8Öü±‡2J$70a67f7d-b8ef-416e-9eb9-47e0dea1048c
+ˆ
+java:S1124I"EReorder the modifiers to comply with the Java Language Specification.(ÛŸµö8’Öü±‡2J$527bb5aa-3913-4be8-a6c7-53179ced6c32
+ˆ
+java:S1124M"EReorder the modifiers to comply with the Java Language Specification.(·Ï½¿8“Öü±‡2J$a16d83e3-8c62-4e2d-8680-b303e6ebffb4
+
+java:S1124Q"EReorder the modifiers to comply with the Java Language Specification.(¨›ëüÿÿÿÿ8•Öü±‡2J$c6cf089d-b63c-44a1-980d-f4037c5e3b92
+ˆ
+java:S1124U"EReorder the modifiers to comply with the Java Language Specification.(û®ìÖ8–Öü±‡2J$c73b13c3-e86a-4200-bed6-07282cc19b50
+ˆ
+java:S1124Y"EReorder the modifiers to comply with the Java Language Specification.(´Ûå8˜Öü±‡2J$c84e5fb3-b03b-4cfe-867a-3a2525533030
+r	java:S106Z"+Replace this use of System.out by a logger.(€ë€«üÿÿÿÿ8Ü½ş±‡2J$42ebc538-f04d-4509-b67e-db2e832d05b4
+m	java:S106["+Replace this use of System.out by a logger.(ÇÉİÖ8Ü½ş±‡2J$07a04c72-b6be-45aa-93f0-1d210a1a39a7
